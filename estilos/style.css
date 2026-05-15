@@ -54,4 +54,11 @@ section#redes img {
 }
 
    
+section#redes img:hover { 
+    border: 2px solid rgba(255, 255, 255, 0.603);
+    box-sizing: border-box;
+    transform: translate(-3px, -3px);
+    box-shadow: 5px 5px 10px black;
+    transition: 0.4s;
+}
 
